@@ -47,8 +47,8 @@ Together, these models represent two modern paradigms: **boosted decision tree l
 | LightGCN        | 0.00125          | 0.00371        | 0.00011       | 0.00023             | 0.00162      | 0.00473    | 0.00010   | 0.00018        |
 | Image-embed     | 0.00731          | 0.01020        | 0.01430       | 0.04541             | 0.04193      | 0.03712    | 0.02730   | 0.06777        |
 | Visual-GCN      | 0.01269          | 0.01738        | 0.02369       | 0.06605             | 0.02837      | 0.04146    | 0.01616   | 0.08327        |
-| LightGBM        | 0.05101          | 0.02984        | 0.06981       | 0.09448             | 0.05668      | 0.03872    | 0.05480   | 0.09044        |
-| Visual-TransGNN | **0.07213**      | **0.09331**    | 0.03856       | **0.20875**         | 0.04951      | 0.05103    | 0.02225   | 0.09392        |
+| LightGBM        | 0.05101          | 0.02984        | **0.06981**       | 0.09448             | **0.05668**     | 0.03872    | **0.05480**   | 0.09044        |
+| Visual-TransGNN | **0.07213**      | **0.09331**    | 0.03856       | **0.20875**         | 0.04951      | **0.05103**   | 0.02225   | **0.09392**        |
 
 ---
 
@@ -61,8 +61,8 @@ Together, these models represent two modern paradigms: **boosted decision tree l
 | LightGCN        | 0.00593          | 0.00537        | 0.00016       | 0.00085             | 0.00449      | 0.00460    | 0.00013   | 0.00048        |
 | Image-embed     | 0.04591          | 0.01719        | 0.02382       | 0.23982             | 0.05298      | 0.05864    | 0.03155   | 0.08447        |
 | Visual-GCN      | 0.07151          | 0.02556        | 0.03492       | 0.30823             | 0.03950      | 0.03883    | 0.01864   | 0.09570        |
-| LightGBM        | 0.06927          | 0.03064        | 0.07686       | 0.14173             | 0.06990      | 0.04465    | 0.06017   | 0.14410        |
-| Visual-TransGNN | **0.12773**      | **0.11068**    | 0.04235       | **0.51301**         | **0.07221**  | **0.07064**| 0.03168   | **0.14350**    |
+| LightGBM        | 0.06927          | 0.03064        | **0.07686**       | 0.14173             | 0.06990      | 0.04465    | **0.06017**   | **0.14410**        |
+| Visual-TransGNN | **0.12773**      | **0.11068**    | 0.04235       | **0.51301**         | **0.07221**  | **0.07064**| 0.03168   | 0.14350    |
 
 
 ## Conclusion
@@ -76,5 +76,6 @@ The project provided practical experience in building pipelines, handling data, 
 The results highlight the importance of selecting models aligned with dataset characteristics, and demonstrate strong potential for deployment in **large-scale e-commerce recommendation systems** tailored to user preferences and behaviors.
 
 ---
+
 
 
