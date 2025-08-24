@@ -24,7 +24,7 @@ Together, these models represent two modern paradigms: **boosted decision tree l
 
 ## Key Results
 
-- On the **Vibrant Clothes Rental dataset**:  
+- On the **Vibrent Clothes Rental dataset**:  
   - **Visual-TransGNN** achieved:  
     - **Recall@20 = 0.12773**  
     - **HitRate@20 = 0.51301**  
@@ -47,3 +47,4 @@ The project provided practical experience in building pipelines, handling data, 
 The results highlight the importance of selecting models aligned with dataset characteristics, and demonstrate strong potential for deployment in **large-scale e-commerce recommendation systems** tailored to user preferences and behaviors.
 
 ---
+
